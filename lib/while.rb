@@ -4,7 +4,7 @@ def using_while
   while levitation_force < 10 
     puts "Wingardium Leviosa";
     levitation_force += 1;
-  end 
+  end                                   #while levitation is less than 10, print this, then add 1                                     to levitation force. and repeat until condition is met. 
   #your code here
 end
 
